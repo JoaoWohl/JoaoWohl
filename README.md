@@ -3,8 +3,8 @@
 Here are some ideas to get you started:
 
 - 🔭 Hoje trabalho com Back-end
-- 🌱 Estudando Python framewors Back-End (Django)
-- 😄 Pronouns: ele/dele
+- 🌱 Estudando Python frameworks Back-End (Django)
+- 😄 Pronomes: ele/dele
 
 <div style="display: inline_block">
   <a href="https://github.com/JoaoWohl"></a>
