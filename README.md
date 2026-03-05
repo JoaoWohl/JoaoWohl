@@ -1,26 +1,83 @@
-## Olá! Me chamo João Vitor!
+# Olá! Me chamo João Vitor👋
 
-- 🔭 Hoje trabalho com Back-end
-- 🌱 Estudando Java frameworks Back-End (Spring)
+🧑‍💻 Estudante de Engenhearia de Software  
+⚙️ Java | Backend
 
-<div style="display: inline_block">
-  <a href="https://github.com/JoaoWohl"></a>
-  <img height="170rem"  src="https://github-readme-stats.vercel.app/api?username=JoaoWohl&show_icons=true&theme=dark&include_all_commits&hide_border=true&border_radius=0">
-  <img height="170rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoWohl&layout=compact&langs_count=8&theme=dark&hide_border=true&border_radius=0">
-</div>
-<br>
-<div style="display: inline_block;">
-  <img aling="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img aling="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />        
-  <img aling="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-  <img aling="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>
-  <img aling="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img aling="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img aling="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img aling="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-</div>
+---
 
-##
+## 🛠️ Tecnologias & Ferramentas
+
+<img
+    aling="left"
+    alt="Java"
+    title="Java"
+    width="50"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+<img
+    aling="left"
+    alt="Java"
+    title="Java"
+    width="50"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
+/>
+<img
+    aling="left"
+    alt="Java"
+    title="Java"
+    width="50"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg"/>
+<img 
+    aling="left"
+    alt="Java"
+    title="Java"
+    width="50"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+<img 
+    aling="left"
+    alt="Java"
+    title="Java"
+    width="50"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg"/>
+<img 
+    aling="left"
+    alt="Java"
+    title="Java"
+    width="50"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img
+    aling="left"
+    alt="Java"
+    title="Java"
+    width="50"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+
+---
+
+## 🎯 Foco Atual
+
+- Desenvolvimento back-end
+- Docker
+- AWS
+
+---
+
+## 🗂️ Projetos em Destaque
+
+### [API REST CRUD de Produtos](https://github.com/JoaoWohl/API-REST-CRUD) 🛒
+
+API REST CRUD de Produtos feita em Java, Spring Boot, Spring Data JPA e PostgreSQL com o objetivo de colocar em prática conhecimentos de criação de APIs, utilização de códigos HTTP e tratamento de erros.
+
+---
+
+## 👤 Contatos
 
 <div>
   <a href="https://www.linkedin.com/in/joao-wohl"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
