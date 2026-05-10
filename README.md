@@ -17,44 +17,44 @@
 />
 <img
     aling="left"
-    alt="Java"
-    title="Java"
+    alt="Spring"
+    title="Spring"
     width="50"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
 />
 <img
     aling="left"
-    alt="Java"
-    title="Java"
+    alt="Mongodb"
+    title="Mongodb"
     width="50"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg"/>
 <img 
     aling="left"
-    alt="Java"
-    title="Java"
+    alt="PostgreSQL"
+    title="PostgreSQL"
     width="50"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
 <img 
     aling="left"
-    alt="Java"
-    title="Java"
+    alt="Git"
+    title="Git"
     width="50"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg"/>
 <img 
     aling="left"
-    alt="Java"
-    title="Java"
+    alt="Docker"
+    title="Docker"
     width="50"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img
     aling="left"
-    alt="Java"
-    title="Java"
+    alt="amazonwebservices"
+    title="amazonwebservices"
     width="50"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
